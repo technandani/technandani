@@ -23,6 +23,9 @@
 <a href="https://www.leetcode.com/leetcode.com/u/nks854338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/nks854338/" height="30" width="40" /></a>
  <img width="12" />
 <a href="https://discord.gg/https://discord.com/channels/nandani854338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/nandani854338" height="30" width="40" /></a>
+ <img width="12" />
+<a href="https://www.naukri.com/code360/profile/cd2eabdc-e5a3-48af-b2ea-6ad9d2c896fc" target="blank"><img align="center" src="https://github.com/user-attachments/assets/51429b39-8502-40e1-9270-206ad05a6714" alt="https://www.naukri.com/code360/profile/cd2eabdc-e5a3-48af-b2ea-6ad9d2c896fc" height="30" width="40" /></a>
+
 </div>
 
 
