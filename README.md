@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Main Image" width="100%">
-<h1 align="center">Hi <img align="center" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="35" />, I'm Priyanka</h1>
+<h1 align="center">Hi <img align="center" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="35" />, I'm Nandani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="Main Image" width="40%">
 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React.
 - 
 
-- 📫 How to reach me *ps9446133@gmail.com*
+- 📫 How to reach me *snandani.tech@gmail.com*
 
 
 <h3 align="left">Connect with me:</h3>
