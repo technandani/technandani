@@ -79,6 +79,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/1cc40a06-44c8-443f-b3ab-4566dff995ed" height="30" alt="C++"  />
+  <img width="12" />
   <img src="https://github.com/user-attachments/assets/b22b691a-01cb-4718-9244-8f685dfbbd87" height="30" alt="C"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/e212f9cf-6f58-4772-91bd-e1e8453dad34" height="30" alt="PHP"  />
@@ -93,7 +95,6 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/dfaf2769-1638-42a7-a838-76a69abeeb9f" height="30" alt="Postman"  />
 </div>
-
 
 
 ##
