@@ -55,6 +55,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+   <img src="https://github.com/user-attachments/assets/7fb1d95b-98ba-4941-9f49-f9b564dff351" height="30" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -62,7 +64,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+   
+  <img src="https://github.com/user-attachments/assets/d766990f-1c64-4d04-93f4-b0c8c0bd5093" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/bc276b89-4146-47c9-a748-d915c17ea576" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/4aa51933-2a41-4eb2-8ed8-c174a8fe0342" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/b22b691a-01cb-4718-9244-8f685dfbbd87" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/55cc5fdc-7c2c-4428-9c81-04f14ec6758f" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/a4c50db2-d828-4895-9320-517f96f0f91c" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/7a9577a8-d46b-4f9d-be12-591a14b664d0" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/dfaf2769-1638-42a7-a838-76a69abeeb9f" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/02979c9c-6b33-4ffa-9acf-36e36b81f6e0" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/8af0b1db-2c7f-43b4-b8c8-ff2168e060f2" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/7243cee6-d17a-45e6-827c-4a81a0f6b293" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/35e8d017-9bff-42f6-88df-d7c9bd86febf" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/8c3dece5-2157-46f0-a359-153863d06010" height="30" alt="csharp logo"  />
 </div>
+
+
+
+
+
+
 
 
 ##
