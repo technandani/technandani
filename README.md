@@ -77,6 +77,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/5af21e69-c171-4f64-aa3e-f33e5bc959b4" height="30" alt="java"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/1cc40a06-44c8-443f-b3ab-4566dff995ed" height="30" alt="C++"  />
