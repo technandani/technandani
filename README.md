@@ -67,7 +67,7 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/35e8d017-9bff-42f6-88df-d7c9bd86febf" height="30" alt="mongoDB"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/8c3dece5-2157-46f0-a359-153863d06010" height="30" alt="shadcn ui"  />
+  <img src="https://github.com/user-attachments/assets/635e89fa-16e7-4d43-9e87-29295e829cea" height="30" alt="shadcn ui"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3"  />
   <img width="12" />
@@ -87,10 +87,6 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/02979c9c-6b33-4ffa-9acf-36e36b81f6e0" height="30" alt="csharp"  />
 </div>
-
-
-![tawilwind]()
-
 
 
 
