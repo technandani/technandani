@@ -49,15 +49,19 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/8af0b1db-2c7f-43b4-b8c8-ff2168e060f2" height="30" alt="nextjs"  />
+  <img src="https://github.com/user-attachments/assets/02979c9c-6b33-4ffa-9acf-36e36b81f6e0" height="30" alt="next js"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react js"  />
   <img width="12" />
-   <img src="https://github.com/user-attachments/assets/7fb1d95b-98ba-4941-9f49-f9b564dff351" height="30" alt="redux"  />
+  <img src="https://github.com/user-attachments/assets/7fb1d95b-98ba-4941-9f49-f9b564dff351" height="30" alt="redux"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/4aa51933-2a41-4eb2-8ed8-c174a8fe0342" height="30" alt="nodejs"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/68130256-64d6-49b8-bfd7-4447f76a0996" height="30" alt="Express js"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/8af0b1db-2c7f-43b4-b8c8-ff2168e060f2" height="30" alt="three js"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/d0ad1009-869f-49b9-a451-5b382fc5d0f9" height="30" alt="twilwind"  />
   <img width="12" />
@@ -84,11 +88,7 @@
   <img src="https://github.com/user-attachments/assets/7a9577a8-d46b-4f9d-be12-591a14b664d0" height="30" alt="csharp"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/dfaf2769-1638-42a7-a838-76a69abeeb9f" height="30" alt="csharp"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/02979c9c-6b33-4ffa-9acf-36e36b81f6e0" height="30" alt="csharp"  />
 </div>
-
-
 
 
 
