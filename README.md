@@ -73,10 +73,6 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/635e89fa-16e7-4d43-9e87-29295e829cea" height="30" alt="shadcn ui"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"  />
-  <img width="12" />
   <img src="https://github.com/user-attachments/assets/5af21e69-c171-4f64-aa3e-f33e5bc959b4" height="30" alt="java"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"  />
@@ -92,8 +88,6 @@
   <img src="https://github.com/user-attachments/assets/55cc5fdc-7c2c-4428-9c81-04f14ec6758f" height="30" alt="figma"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/a4c50db2-d828-4895-9320-517f96f0f91c" height="30" alt="Wordpress"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/7a9577a8-d46b-4f9d-be12-591a14b664d0" height="30" alt="Git"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/dfaf2769-1638-42a7-a838-76a69abeeb9f" height="30" alt="Postman"  />
 </div>
