@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/4aa51933-2a41-4eb2-8ed8-c174a8fe0342" height="30" alt="nodejs"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/bc276b89-4146-47c9-a748-d915c17ea576" height="30" alt="twilwind"  />
+  <img src="https://github.com/user-attachments/assets/d0ad1009-869f-49b9-a451-5b382fc5d0f9" height="30" alt="twilwind"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"  />
   <img width="12" />
@@ -89,6 +89,7 @@
 </div>
 
 
+![tawilwind]()
 
 
 
