@@ -81,6 +81,10 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/b22b691a-01cb-4718-9244-8f685dfbbd87" height="30" alt="csharp"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/e212f9cf-6f58-4772-91bd-e1e8453dad34" height="30" alt="PHP"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/44fc6f00-b7d9-4d43-936b-987ade534070" height="30" alt="SQL"  />
+  <img width="12" />
   <img src="https://github.com/user-attachments/assets/55cc5fdc-7c2c-4428-9c81-04f14ec6758f" height="30" alt="csharp"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/a4c50db2-d828-4895-9320-517f96f0f91c" height="30" alt="csharp"  />
@@ -90,6 +94,7 @@
   <img src="https://github.com/user-attachments/assets/dfaf2769-1638-42a7-a838-76a69abeeb9f" height="30" alt="csharp"  />
 </div>
 
+![Php]()
 
 
 ##
