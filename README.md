@@ -49,47 +49,47 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/02979c9c-6b33-4ffa-9acf-36e36b81f6e0" height="30" alt="next js"  />
+  <img src="https://github.com/user-attachments/assets/0851448e-afe3-4d4b-a262-a47b045f13a5" height="40" alt="next js"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react js"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react js"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/7fb1d95b-98ba-4941-9f49-f9b564dff351" height="30" alt="redux"  />
+  <img src="https://github.com/user-attachments/assets/7fb1d95b-98ba-4941-9f49-f9b564dff351" height="40" alt="redux"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/4aa51933-2a41-4eb2-8ed8-c174a8fe0342" height="30" alt="nodejs"  />
+  <img src="https://github.com/user-attachments/assets/4aa51933-2a41-4eb2-8ed8-c174a8fe0342" height="40" alt="nodejs"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/68130256-64d6-49b8-bfd7-4447f76a0996" height="30" alt="Express js"  />
+  <img src="https://github.com/user-attachments/assets/68130256-64d6-49b8-bfd7-4447f76a0996" height="40" alt="Express js"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/8af0b1db-2c7f-43b4-b8c8-ff2168e060f2" height="30" alt="three js"  />
+  <img src="https://github.com/user-attachments/assets/8af0b1db-2c7f-43b4-b8c8-ff2168e060f2" height="40" alt="three js"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/d0ad1009-869f-49b9-a451-5b382fc5d0f9" height="30" alt="twilwind"  />
+  <img src="https://github.com/user-attachments/assets/d0ad1009-869f-49b9-a451-5b382fc5d0f9" height="40" alt="twilwind"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/7243cee6-d17a-45e6-827c-4a81a0f6b293" height="30" alt="konva"  />
+  <img src="https://github.com/user-attachments/assets/7243cee6-d17a-45e6-827c-4a81a0f6b293" height="40" alt="konva"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/35e8d017-9bff-42f6-88df-d7c9bd86febf" height="30" alt="mongoDB"  />
+  <img src="https://github.com/user-attachments/assets/35e8d017-9bff-42f6-88df-d7c9bd86febf" height="40" alt="mongoDB"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/635e89fa-16e7-4d43-9e87-29295e829cea" height="30" alt="shadcn ui"  />
+  <img src="https://github.com/user-attachments/assets/635e89fa-16e7-4d43-9e87-29295e829cea" height="40" alt="shadcn ui"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/5af21e69-c171-4f64-aa3e-f33e5bc959b4" height="30" alt="java"  />
+  <img src="https://github.com/user-attachments/assets/5af21e69-c171-4f64-aa3e-f33e5bc959b4" height="40" alt="java"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/1cc40a06-44c8-443f-b3ab-4566dff995ed" height="30" alt="C++"  />
+  <img src="https://github.com/user-attachments/assets/1cc40a06-44c8-443f-b3ab-4566dff995ed" height="40" alt="C++"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/b22b691a-01cb-4718-9244-8f685dfbbd87" height="30" alt="C"  />
+  <img src="https://github.com/user-attachments/assets/b22b691a-01cb-4718-9244-8f685dfbbd87" height="40" alt="C"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/e212f9cf-6f58-4772-91bd-e1e8453dad34" height="30" alt="PHP"  />
+  <img src="https://github.com/user-attachments/assets/e212f9cf-6f58-4772-91bd-e1e8453dad34" height="40" alt="PHP"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/44fc6f00-b7d9-4d43-936b-987ade534070" height="30" alt="SQL"  />
+  <img src="https://github.com/user-attachments/assets/44fc6f00-b7d9-4d43-936b-987ade534070" height="40" alt="SQL"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/55cc5fdc-7c2c-4428-9c81-04f14ec6758f" height="30" alt="figma"  />
+  <img src="https://github.com/user-attachments/assets/55cc5fdc-7c2c-4428-9c81-04f14ec6758f" height="40" alt="figma"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/a4c50db2-d828-4895-9320-517f96f0f91c" height="30" alt="Wordpress"  />
+  <img src="https://github.com/user-attachments/assets/a4c50db2-d828-4895-9320-517f96f0f91c" height="40" alt="Wordpress"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/dfaf2769-1638-42a7-a838-76a69abeeb9f" height="30" alt="Postman"  />
+  <img src="https://github.com/user-attachments/assets/dfaf2769-1638-42a7-a838-76a69abeeb9f" height="40" alt="Postman"  />
 </div>
 
 
