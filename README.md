@@ -48,7 +48,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left">
+<div align="">
   <img src="https://github.com/user-attachments/assets/0851448e-afe3-4d4b-a262-a47b045f13a5" height="40" alt="next js"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"  />
